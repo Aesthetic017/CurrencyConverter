@@ -1,1 +1,1 @@
-# CurrencyConverter
+Currency Converter Application is a web-based tool built using HTML, CSS, and JavaScript that allows users to convert amounts between different currencies in real-time. It fetches exchange rates from an API and dynamically updates the conversion based on user input. The interface includes input fields, dropdowns for currency selection, and a result display, all styled with CSS for a clean and responsive design. JavaScript handles the API requests and calculations, ensuring seamless and accurate conversions. 
